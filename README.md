@@ -6,4 +6,5 @@ We don't currently support online sync and this application **is not releated to
 ## Current Supported Games:
 - FNaF Wii U Edition
 - Pureya (since no update has been released yet to support the achievements, the percentage is stuck at 0% with no achievements granted)
+
 If we start giving support for new games and you have oldee versions installed, it will display them with the achievements but will not grant or show percentage progress as the app and the implementation on games need to coexist for achievements to work peoperly.
