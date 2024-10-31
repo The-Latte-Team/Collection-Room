@@ -1,8 +1,9 @@
 # Collection Room
-A homebrew application for you to view all the achievements collected in supported games.
+An aroma homebrew application for you to view all the achievements collected in supported games.
 
 We don't currently support online sync and this application **is not releated to Pretendo's PoC for medals** shown off in 2023
 
+Aroma is currently the only environment supported as we heavily rely on WUHB special stuff for it to work, Tiramisu may be supported in a near future
 ## Current Supported Games:
 - FNaF Wii U Edition
 - Pureya (since no update has been released yet to support the achievements, the percentage is stuck at 0% with no achievements granted)
